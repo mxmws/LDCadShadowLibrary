@@ -4,6 +4,7 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2019-04-27 {Roland Melkert} Initial info for 18601.dat
+0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 80] [grid=C 24 C 4 20 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -100] [grid=C 12 C 2 20 20]
@@ -12,3 +13,19 @@
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=90 8 -40] [grid=C 3 C 4 20 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-90 8 -40] [grid=C 3 C 4 20 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -20] [grid=C 2 C 2 100 100]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-80 6 -80] [grid=1 5 0 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-120 6 40] [grid=1 2 0 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-160 6 40] [grid=1 2 0 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-200 6 40] [grid=1 2 0 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=40 6 80]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-40 6 40] [grid=2 1 80 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-40 6 -80] [grid=2 1 80 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-100 6 -100] [grid=1 5 0 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-60 6 -100] [grid=3 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-60 6 -60] [grid=1 2 0 80]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-220 6 20] [grid=3 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-220 6 60] [grid=1 2 0 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-180 6 60] [grid=1 2 0 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-140 6 60] [grid=2 1 160 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-140 6 100]

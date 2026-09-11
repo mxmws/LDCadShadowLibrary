@@ -1,0 +1,8 @@
+0 LDCad shadow info for "~Electric Spybotic Brick Chassis (Needs Work)"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-09-11 {Maximilian Mews} Initial info for 40574.dat; moved connection info from 40573.dat
+
+0 !LDCAD SNAP_CYL [gender=F] [secs=R 6 4] [caps=one] [center=true] [pos=-40 28 -20] [grid=5 3 20 20]

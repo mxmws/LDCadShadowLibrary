@@ -4,7 +4,10 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2016-02-05 {Roland Melkert} Initial info for s\30642s01.dat
+0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=60 32 0] [grid=C 6 C 2 20 20]
 0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=130 42 0] [ori=0 -1 0 1 0 0 0 0 1]
 0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 4] [slide=true] [pos=60 32 0] [grid=C 3 1 40 0]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=80 30 0] [ori=-1 0 0 0 1 0 0 0 -1] [grid=2 1 40 0]

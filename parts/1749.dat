@@ -4,5 +4,8 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2025-12-25 {Philippe Hurbain} Initial info for 1749.dat
+0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 312 -20] [grid=C 4 C 2 20 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5] [center=true] [pos=-20 309.5 -20] [grid=3 1 20 0]

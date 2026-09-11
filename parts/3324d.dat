@@ -4,7 +4,10 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2014-09-14 {Roland Melkert} Initial info for 3324d.dat
+0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 6 -90] [grid=C 2 C 8 20 20]
 0 !LDCAD SNAP_FGR [group=hgPlB] [genderOfs=M] [seq=10 20 10] [ori=0 -1 0 1 0 0 0 0 1]
 0 !LDCAD SNAP_GEN [group=hgPlB] [gender=F] [bounding=cyl 6 16] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=0 4 -150] [grid=1 7 0 20]

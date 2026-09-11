@@ -4,5 +4,12 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2020-04-05 {Roland Melkert} Initial info for s\30295s4.dat
+0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=30 32 100] [grid=C 3 C 8 20 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=40 30 60] [grid=1 2 0 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=60 30 160] [ori=-1 0 0 0 1 0 0 0 -1] [grid=2 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=20 30 120] [ori=-1 0 0 0 1 0 0 0 -1] [grid=1 2 0 80]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=40 30 140] [ori=-1 0 0 0 1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=20 30 80] [ori=0 0 -1 0 1 0 1 0 0]

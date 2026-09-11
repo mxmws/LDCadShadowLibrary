@@ -1,0 +1,19 @@
+0 LDCad shadow info for "Scala Table Top  7 x 14 Semicircle"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-09-11 {Maximilian Mews} Initial info for 33088.dat
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=-20 10 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=-40 10 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=40 10 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=20 10 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=-20 10 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=-40 10 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=-40 10 -60] [grid=5 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=-40 10 -80] [grid=5 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=80 10 -20] [grid=1 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=40 10 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=-80 10 0] [grid=2 1 100 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [center=true] [pos=-80 10 -20]

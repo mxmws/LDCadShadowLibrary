@@ -4,6 +4,9 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2017-03-15 {Roland Melkert} Initial info for 4238.dat
+0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 //TODO: Needs new orientation restriction
 0 !LDCAD SNAP_GEN [gender=F] [bounding=box 40 8 60] [pos=0 40 0]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=0 6 -40] [grid=1 5 0 20]

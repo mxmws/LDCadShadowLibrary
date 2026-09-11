@@ -4,5 +4,10 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2021-03-06 {Roland Melkert} Initial info for s\2680s01.dat
+0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 120 0] [grid=C 4 C 4 20 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [secs=R 6 4] [caps=one] [center=true] [pos=-20 118 20] [grid=2 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=20 118 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-20 118 -20] [ori=-1 0 0 0 1 0 0 0 -1]

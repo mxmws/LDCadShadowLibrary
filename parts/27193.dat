@@ -4,5 +4,15 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2019-12-01 {Roland Melkert} Initial info for 27193.dat
+0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info; relocated from 26910.dat
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [grid=C 6 C 8 20 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 0 60] [ori=0 0 1 0 1 0 -1 0 0] [grid=3 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-20 0 60] [ori=0 0 1 0 1 0 -1 0 0] [grid=2 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=40 0 60] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=40 -2 -60] [grid=1 6 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=20 -2 -60] [grid=1 7 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-20 -2 -60] [grid=1 5 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-40 -2 -60] [grid=1 7 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=0 -2 -60] [grid=1 4 0 20]
