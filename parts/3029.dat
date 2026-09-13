@@ -4,8 +4,5 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2013-12-19 {Roland Melkert} Initial info for 3029.dat
-0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 12 C 4 20 20]
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-100 6 -20] [grid=11 3 20 20]

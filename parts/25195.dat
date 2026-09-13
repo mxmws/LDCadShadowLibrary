@@ -1,8 +1,0 @@
-0 LDCad shadow info for "Plate  2 x  6 with Pole Holder Pin"
-
-0 Author: LDCad Shadow Library
-0 !LICENSE CC BY-SA 4.0, see LICENSE.md
-
-0 !HISTORY 2026-09-11 {Maximilian Mews} Initial info for 25195.dat
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-40 6 0] [grid=2 1 80 0]

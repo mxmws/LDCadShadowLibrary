@@ -5,9 +5,6 @@
 
 0 !HISTORY 2024-07-06 {Philippe Hurbain} Initial info for 3263.dat {unofficial}
 0 !HISTORY 2025-04-10 {Roland Melkert} Made official
-0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 16 -10] [grid=C 4 C 2 20 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 20] [grid=C 2 1 20 0]
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-20 14 -10] [grid=3 1 20 0]

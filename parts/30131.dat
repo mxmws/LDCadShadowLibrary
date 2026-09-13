@@ -1,9 +1,0 @@
-0 LDCad shadow info for "Tree  6 x  6 Hollow Stump"
-
-0 Author: LDCad Shadow Library
-0 !LICENSE CC BY-SA 4.0, see LICENSE.md
-
-0 !HISTORY 2026-09-11 {Maximilian Mews} Initial info for 30131.dat
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-20 -2 0] [grid=3 1 20 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=0 -2 -20] [grid=1 2 0 40]

@@ -4,8 +4,5 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2019-12-12 {Roland Melkert} Initial info for s\30841s01.dat
-0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 32 -10] [grid=C 4 C 2 20 20]
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 27] [center=true] [pos=-20 18.5 -10] [grid=2 1 40 0]

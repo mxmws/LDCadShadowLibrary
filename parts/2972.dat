@@ -4,7 +4,6 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2020-08-04 {Alex Taylor} Initial info for 2972.dat
-0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 4] [pos=-260 8 0]
 0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 4] [pos=260 8 0]
@@ -17,10 +16,3 @@
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 8] [pos=0 64 0] [grid=C 4 C 4 20 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 56 50] [grid=C 18 1 20 0]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 56 -50] [grid=C 18 1 20 0]
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-320 6 40]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-220 6 20]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-280 6 -40] [grid=1 4 0 20]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-320 6 20] [grid=2 1 20 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-320 6 -40]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=190 8 -50] [grid=1 2 0 100]

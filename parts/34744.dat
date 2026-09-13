@@ -4,8 +4,5 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2020-03-14 {Roland Melkert} Initial info for 34744.dat
-0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 24 0] [grid=C 4 C 8 20 20]
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-20 22 -60] [grid=2 7 40 20]

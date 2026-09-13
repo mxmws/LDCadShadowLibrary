@@ -4,13 +4,8 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2019-12-11 {Roland Melkert} Initial info for 35446.dat
-0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 2 C 6 20 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 2 C 4 60 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 2 C 2 100 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 4] [pos=0 8 0]
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=0 6 20] [grid=2 1 40 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-40 6 -20] [grid=3 1 40 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [center=true] [pos=-20 6 -40] [grid=2 2 40 80]

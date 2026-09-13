@@ -4,9 +4,5 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2018-12-22 {Roland Melkert} Initial info for 29115.dat
-0 !HISTORY 2026-09-11 {Maximilian Mews} Added connection info
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 4] [slide=true] [pos=0 24 0] [grid=1 C 3 0 40]
-
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5.25] [center=true] [pos=-20 21.375 -20] [grid=2 1 20 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5.25] [center=true] [pos=0 21.375 20]
